@@ -28,7 +28,7 @@
 <p><strong>Front-end</strong></p>
 <p><code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/html5-512.png"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/html5-512.png" style="max-width:100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/png-clipart-css3-badge-blue-and-white-css-icon-thumbnail.png" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/768px-Bootstrap_logo.svg.png"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/768px-Bootstrap_logo.svg.png" style="max-width:100%;"></a></code></p>
+<code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/768px-Bootstrap_logo.svg.png"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/768px-Bootstrap_logo.svg.png" style="max-width:100%;"></a></code></p>
 </li>
   
 <li>
