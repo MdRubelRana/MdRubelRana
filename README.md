@@ -64,7 +64,7 @@
 <p>
   <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/as.png"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/as.png" style="max-width:100%;"></a></code>
   <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/php-1-logo-png-transparent.png" style="max-width:100%;"></a></code>
-  <code><a target="_blank" rel="noopener noreferrer" href="https://github.com/MdRubelRana"><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/laravel.png" title="Laravel" style="max-width:100%;"></a></code>
+  <code><a target="_blank" rel="noopener noreferrer" href=""><img height="30" src="https://github.com/MdRubelRana/Social-Media-Icon/blob/master/assets/laravel.png" title="Laravel" style="max-width:100%;"></a></code>
 </p>
 </li>
 </ul>
